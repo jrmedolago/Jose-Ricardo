@@ -1,0 +1,7 @@
+SIGLAS
+
+DEV - ambiente de programação
+
+QA - testes
+
+PRD - ambiente de produção
